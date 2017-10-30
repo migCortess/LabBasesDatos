@@ -1,5 +1,5 @@
 /*PRACTICA 
-HMCR
+HECTOR MIGUEL CORTES RAMOS
 1477355
 migcortes@gmail.com*/
 
